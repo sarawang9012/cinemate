@@ -11,8 +11,8 @@ export const Footer = () => {
                     <li>
                         <a href="https://www.instagram.com/sarawang9012/" className="hover:underline me-4 md:me-6" rel="noreferrer" target="_blank">Instagram</a>
                     </li>
-                    <li>LinkedIn
-                        <a href="https://www.linkedin.com/in/sara-wang-079b5b288/" className="hover:underline me-4 md:me-6" rel="noreferrer" target="_blank"></a>
+                    <li>
+                        <a href="https://www.linkedin.com/in/sara-wang-079b5b288/" className="hover:underline me-4 md:me-6" rel="noreferrer" target="_blank">LinkedIn</a>
                     </li>
                     <li>
                         <a href="https://twitter.com/SaraWang2023" className="hover:underline me-4 md:me-6" rel="noreferrer" target="_blank">Twitter</a>
