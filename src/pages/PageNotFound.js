@@ -1,5 +1,4 @@
 import { Link } from "react-router-dom";
-import { useEffect } from "react";
 import { useTitle } from "../hooks/useTitle";
 import PageNotFoundImage from "../assets/images/pagenotfound.png";
 import { Button } from "../components/index";

@@ -1,5 +1,4 @@
 import { useSearchParams } from "react-router-dom";
-import { useEffect } from "react";
 import { Card } from "../components/Card";
 import { useFetch } from "../hooks/useFetch";
 import { useTitle } from "../hooks/useTitle";

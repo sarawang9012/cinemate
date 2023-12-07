@@ -1,5 +1,5 @@
 import { useState, useEffect } from "react";
-import { Link, useParams } from "react-router-dom";
+import {  useParams } from "react-router-dom";
 import { useTitle } from "../hooks/useTitle";
 import Backup from "../assets/images/backup.png";
 export const MovieDetail = () => {

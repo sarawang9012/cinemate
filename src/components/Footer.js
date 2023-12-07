@@ -9,16 +9,16 @@ export const Footer = () => {
                 </span>
                 <ul className="flex flex-wrap items-center mt-3 text-sm font-medium text-gray-500 dark:text-gray-400 sm:mt-0">
                     <li>
-                        <a href="#" className="hover:underline me-4 md:me-6">Instagram</a>
+                        <a href="https://www.instagram.com/sarawang9012/" className="hover:underline me-4 md:me-6" rel="noreferrer" target="_blank">Instagram</a>
                     </li>
                     <li>LinkedIn
-                        <a href="#" className="hover:underline me-4 md:me-6"></a>
+                        <a href="https://www.linkedin.com/in/sara-wang-079b5b288/" className="hover:underline me-4 md:me-6" rel="noreferrer" target="_blank"></a>
                     </li>
                     <li>
-                        <a href="#" className="hover:underline me-4 md:me-6">Twitter</a>
+                        <a href="https://twitter.com/SaraWang2023" className="hover:underline me-4 md:me-6" rel="noreferrer" target="_blank">Twitter</a>
                     </li>
                     <li>
-                        <a href="#" className="hover:underline">YouTube</a>
+                        <a href="https://www.youtube.com/channel/UCdcSSCnG6O71p4KvGyPp6Ow" className="hover:underline"i rel="noreferrer" target="_blank">YouTube</a>
                     </li>
                 </ul>
             </div>
