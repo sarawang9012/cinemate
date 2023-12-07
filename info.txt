@@ -1,0 +1,25 @@
+api key: 20bce36e338322120a1d88cf3ad5db0f
+api access token: eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiIyMGJjZTM2ZTMzODMyMjEyMGExZDg4Y2YzYWQ1ZGIwZiIsInN1YiI6IjY1NjFiNjkwYjIzNGI5MDEzOTI3NTNjZCIsInNjb3BlcyI6WyJhcGlfcmVhZCJdLCJ2ZXJzaW9uIjoxfQ.we774Aad_p0GfXRJMy1NOFtifFLO7rbtv8c04o_Ueao
+
+Authorization: Bearer eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiIyMGJjZTM2ZTMzODMyMjEyMGExZDg4Y2YzYWQ1ZGIwZiIsInN1YiI6IjY1NjFiNjkwYjIzNGI5MDEzOTI3NTNjZCIsInNjb3BlcyI6WyJhcGlfcmVhZCJdLCJ2ZXJzaW9uIjoxfQ.we774Aad_p0GfXRJMy1NOFtifFLO7rbtv8c04o_Ueao
+--header 'accept: application/json'
+Configuration:
+https://api.themoviedb.org/3/configuration
+List:
+https://api.themoviedb.org/3/movie/now_playing?language=en-US&page=1
+
+Popular:
+https://api.themoviedb.org/3/movie/popular?language=en-US&page=1 
+
+Top rated:
+https://api.themoviedb.org/3/movie/top_rated?language=en-US&page=1
+
+Upcoming:
+https://api.themoviedb.org/3/movie/upcoming?language=en-US&page=1
+
+Details:
+https://api.themoviedb.org/3/movie/movie_id?language=en-US
+
+search:
+
+https://api.themoviedb.org/3/search/movie?include_adult=false&language=en-US&page=1
